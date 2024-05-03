@@ -202,7 +202,7 @@ footer > p {
 }
 @media screen and (max-width: 650px) {
   .container {
-    width: 80%;
+    width: 100%;
     margin: auto;
     background-color: rgb(202, 220, 226);
     padding-top: 20px;

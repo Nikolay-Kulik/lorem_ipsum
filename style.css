@@ -78,7 +78,7 @@ button {
   border: none;
   font-weight: 900;
   color: white;
-  letter-spacing: calc(var(--index) * 0.2);
+  letter-spacing: calc(var(--index) * 0.3);
   text-transform: uppercase;
   font-size: calc(var(--index) * 0.6);
 }

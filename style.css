@@ -80,7 +80,7 @@ button {
   color: white;
   letter-spacing: calc(var(--index) * 0.3);
   text-transform: uppercase;
-  font-size: calc(var(--index) * 0.6);
+  font-size: calc(var(--index) * 0.8);
 }
 footer {
   background: linear-gradient(
